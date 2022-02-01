@@ -10,7 +10,6 @@ namespace Rechentrainer
     {
         private int zahl1;
         private int zahl2;
-        private int antwort;
 
         public int Zahl1 { get => zahl1; set => zahl1 = value; }
         public int Zahl2 { get => zahl2; set => zahl2 = value; }
@@ -20,8 +19,6 @@ namespace Rechentrainer
         {
             Zahl1 = zahl1;
             Zahl2 = zahl2;  
-          
-
         }
 
         public Multiplikationsquiz()
@@ -33,7 +30,6 @@ namespace Rechentrainer
             Random rastgele = new Random();
             Zahl1 = rastgele.Next(1, 21);
             Zahl2 = rastgele.Next(1, 21);
-          
             return Zahl1 * Zahl2;
         }
 
@@ -41,7 +37,5 @@ namespace Rechentrainer
         {
             return $"{Zahl1} * {Zahl2} = ?";
         }
-
-
     }
 }
