@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rechentrainer/1.0.0": {
+        "dependencies": {
+          "Quiz": "1.0.0"
+        },
+        "runtime": {
+          "Rechentrainer.dll": {}
+        }
+      },
+      "Quiz/1.0.0": {
+        "runtime": {
+          "Quiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rechentrainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

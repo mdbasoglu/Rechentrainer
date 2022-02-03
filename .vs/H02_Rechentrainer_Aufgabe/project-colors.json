@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cebdc676-666e-4ee7-9a11-6312c23da9c6": {
+      "ProjectGuid": "cebdc676-666e-4ee7-9a11-6312c23da9c6",
+      "DisplayName": "Quiz",
+      "ColorIndex": 0
+    },
+    "6421c0a5-223b-442c-83a7-97dad46d5536": {
+      "ProjectGuid": "6421c0a5-223b-442c-83a7-97dad46d5536",
+      "DisplayName": "Rechentrainer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

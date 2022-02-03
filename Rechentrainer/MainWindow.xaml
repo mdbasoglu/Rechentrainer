@@ -1,0 +1,26 @@
+﻿<Window x:Class="Rechentrainer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rechentrainer"
+        mc:Ignorable="d"
+        Title="Rechen-Trainer" Height="425" Width="650">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\Holz.jpg"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="58,10,0,0" Text="Der Rechentrainer" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="390" Foreground="White" FontSize="36" FontFamily="Lucida Handwriting"/>
+        <TextBlock HorizontalAlignment="Left" Margin="58,103,0,0" Text="Frage" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="147" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="58,168,0,0" Text="Antwort" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" Width="130" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="txtAntwort" HorizontalAlignment="Left" Height="28" Margin="231,170,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Foreground="White" Background="SandyBrown" FontSize="16" Opacity="0.9" FontFamily="Lucida Handwriting"/>
+        <Label x:Name="lblFrage" Content="" HorizontalAlignment="Left" Height="27" Margin="231,102,0,0" VerticalAlignment="Top" Width="361" Foreground="White" Background="SandyBrown" FontSize="16" Opacity="0.9" FontFamily="Lucida Handwriting"/>
+        <TextBlock HorizontalAlignment="Left" Height="31" Margin="58,234,0,0" Text="Bewertung" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="58,326,0,0" Text="Benötigte Zeit" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" Foreground="White" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="btnNeu" Content="Neu" HorizontalAlignment="Left" Height="32" Margin="495,19,0,0" VerticalAlignment="Top" Width="97" Foreground="White" Background="SandyBrown" FontSize="14" Click="btnNeu_Click"/>
+        <Label x:Name="lblBewertung" Content="" HorizontalAlignment="Left" Height="65" Margin="231,232,0,0" VerticalAlignment="Top" Width="361" FontSize="18" Foreground="White" Background="SandyBrown" FontFamily="Lucida Handwriting" Opacity="0.9"/>
+        <Button x:Name="btnPruefen" Content="prüfen" HorizontalAlignment="Left" Height="30" Margin="495,170,0,0" VerticalAlignment="Top" Width="97" Foreground="White" Background="SandyBrown" FontSize="14" RenderTransformOrigin="0.526,0.039" Click="btnPruefen_Click"/>
+        <Label x:Name="lblZeit" Content="" HorizontalAlignment="Left" Height="35" Margin="231,321,0,0" VerticalAlignment="Top" Width="361" Foreground="White" Background="SandyBrown" FontSize="18" FontFamily="Lucida Handwriting" Opacity="0.9"/>
+
+    </Grid>
+</Window>

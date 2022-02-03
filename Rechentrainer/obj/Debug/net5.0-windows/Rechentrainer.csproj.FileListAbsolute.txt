@@ -1,0 +1,144 @@
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.AssemblyReference.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.deps.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.dev.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.exe
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.exe
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.deps.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.dev.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.pdb
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.lref
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.g.resources
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfoInputs.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfo.cs
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CoreCompileInputs.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.lref
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.deps.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.exe
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.exe
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.deps.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.pdb
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.g.resources
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CopyComplete
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.deps.json
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.json
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.exe
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.exe
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.deps.json
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.json
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.dll
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.pdb
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.cache
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.lref
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.g.resources
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CopyComplete
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\Admin\Downloads\Documents\Ausbildung\Berufsschule\SCC\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.genruntimeconfig.cache
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.deps.json
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.json
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.dev.json
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.exe
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.exe
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.deps.json
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.json
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.dev.json
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.dll
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\bin\Debug\net5.0-windows\Quiz.pdb
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.AssemblyReference.cache
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.cache
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.lref
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.g.resources
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfoInputs.cache
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfo.cs
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CoreCompileInputs.cache
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CopyComplete
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\mdbas\OneDrive\Desktop\H02_Rechentrainer_Aufgabe\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.genruntimeconfig.cache
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Quiz.deps.json
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.json
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Quiz.runtimeconfig.dev.json
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Quiz.exe
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.exe
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.deps.json
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.json
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.runtimeconfig.dev.json
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Quiz.dll
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\bin\Debug\net5.0-windows\Quiz.pdb
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.AssemblyReference.cache
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.cache
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer_MarkupCompile.lref
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.g.resources
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfoInputs.cache
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.AssemblyInfo.cs
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CoreCompileInputs.cache
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.csproj.CopyComplete
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.dll
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\ref\Rechentrainer.dll
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.pdb
+C:\Users\mdbas\Documents\Rechentrainer\Rechentrainer\obj\Debug\net5.0-windows\Rechentrainer.genruntimeconfig.cache
